@@ -1,2 +1,2 @@
 # NEAR-Protocol
-This repo is for the exercises for the tutorials at Patika.dev on Near Certified Developer Bootcamp.
+This repo is for the exercises at Patika.dev on Near Certified Developer Bootcamp.
